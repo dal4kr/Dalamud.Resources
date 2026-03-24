@@ -30,5 +30,30 @@
     "DownloadLinkInstall": "https://raw.githubusercontent.com/dal4kr/Dalamud.Resources/main/Plugins/InventoryTools/latest.zip",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/dal4kr/Dalamud.Resources/main/Plugins/InventoryTools/latest.zip",
     "DownloadLinkTesting": ""
+  },
+  {
+    "Author": "The Combat Reborn Team",
+    "Name": "Bossmod Reborn",
+    "InternalName": "BossModReborn",
+    "AssemblyVersion": "1007.4.5.14",
+    "Description": "A bunch of utilities to simplify bosses.",
+    "ApplicableVersion": "any",
+    "RepoUrl": "https://github.com/FFXIV-CombatReborn/BossmodReborn",
+    "DalamudApiLevel": 14,
+    "LoadRequiredState": 0,
+    "LoadSync": false,
+    "CanUnloadAsync": false,
+    "LoadPriority": 0,
+    "ImageUrls": [
+      "https://raw.githubusercontent.com/awgil/ffxiv_bossmod/master/Data/image1.png",
+      "https://raw.githubusercontent.com/awgil/ffxiv_bossmod/master/Data/image2.png",
+      "https://raw.githubusercontent.com/awgil/ffxiv_bossmod/master/Data/image3.png"
+    ],
+    "IconUrl": "https://raw.githubusercontent.com/FFXIV-CombatReborn/RebornAssets/main/IconAssets/BMR_Icon.png",
+    "Punchline": "Don't fail at raid mechanics anymore",
+    "AcceptsFeedback": true,
+    "DownloadLinkInstall": "https://github.com/dal4kr/BossmodReborn/releases/download/1007.4.5.14/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/dal4kr/BossmodReborn/releases/download/1007.4.5.14/latest.zip",
+    "DownloadLinkTesting": ""
   }
 ]
