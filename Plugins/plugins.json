@@ -35,7 +35,7 @@
     "Author": "The Combat Reborn Team",
     "Name": "Bossmod Reborn",
     "InternalName": "BossModReborn",
-    "AssemblyVersion": "1007.4.5.14",
+    "AssemblyVersion": "7.4.5.14",
     "Description": "A bunch of utilities to simplify bosses.",
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/FFXIV-CombatReborn/BossmodReborn",
@@ -52,8 +52,8 @@
     "IconUrl": "https://raw.githubusercontent.com/FFXIV-CombatReborn/RebornAssets/main/IconAssets/BMR_Icon.png",
     "Punchline": "Don't fail at raid mechanics anymore",
     "AcceptsFeedback": true,
-    "DownloadLinkInstall": "https://github.com/dal4kr/BossmodReborn/releases/download/1007.4.5.14/latest.zip",
-    "DownloadLinkUpdate": "https://github.com/dal4kr/BossmodReborn/releases/download/1007.4.5.14/latest.zip",
+    "DownloadLinkInstall": "https://github.com/dal4kr/BossmodReborn/releases/download/7.4.5.14/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/dal4kr/BossmodReborn/releases/download/7.4.5.14/latest.zip",
     "DownloadLinkTesting": ""
   }
 ]
