@@ -27,8 +27,8 @@
     "IconUrl": "https://raw.githubusercontent.com/Critical-Impact/InventoryTools/main/InventoryTools/Images/icon.png",
     "Punchline": "Get organized in FFXIV, easily locate/show where to sort items, plan your crafting, and search for mobs, duties, airships, and submarines!",
     "AcceptsFeedback": true,
-    "DownloadLinkInstall": "https://raw.githubusercontent.com/dal4kr/Dalamud.Resources/main/Plugins/InventoryTools/latest.zip",
-    "DownloadLinkUpdate": "https://raw.githubusercontent.com/dal4kr/Dalamud.Resources/main/Plugins/InventoryTools/latest.zip",
+    "DownloadLinkInstall": "https://raw.githubusercontent.com/dal4kr/Dalamud.Resources/refs/heads/main/Plugins/InventoryTools/latest.zip",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/dal4kr/Dalamud.Resources/refs/heads/main/Plugins/InventoryTools/latest.zip",
     "DownloadLinkTesting": ""
   },
   {
